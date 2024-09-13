@@ -1,6 +1,6 @@
-# Hasain Jinan's Blog
+# Hello
 
-Hi, my name is Hasain Jinan. I am a Junior FSD Developer taking my Full Stack Development course at the [Brooklyn STEAM Center](https://brooklynsteamcenter.org/).
+My name is Hasain Jinan. I am a Junior FSD Developer taking my Full Stack Development course at the [Brooklyn STEAM Center](https://brooklynsteamcenter.org/).
 <br>
 I was born in Chittagong, Bangladesh, but I was raised in Brooklyn almost my whole life. 
 
