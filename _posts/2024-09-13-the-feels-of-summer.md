@@ -36,10 +36,10 @@ Unfortunately, all good things have to end and me and my family headed back to B
 
 Having someone you can relate with and connect to is incredibly important. Your family, they will be with you forever, friends come and go. Boyfriends/girlfriends come and go. But family, real family, is there for you forever. So, if this story was of any interest to you, give a call to a relative you haven’t seen in a while. Ask them how they are and plan to meet up. You will thank yourself for it.
 
-<img src="/blog/images/Hansel-Wong.jpg">
+<img src="/blog/images/Hansel-Wong.jpg" height = "200px">
 
 Photo taken by [Hansel Wong](https://unsplash.com/@yourshansel) on [Unsplash](https://unsplash.com).
 
-<img src="/blog/images/unsplash-sidewalk.jpeg">
+<img src="/blog/images/unsplash-sidewalk.jpg" height = "200px">
 
 Photo taken by [Etienne Delorieux](https://unsplash.com/@etiennedelorieux) on [Unsplash](https://unsplash.com).
