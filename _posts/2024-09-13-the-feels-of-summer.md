@@ -14,8 +14,6 @@ However, until last year, I never understood the value of that time off, what co
 
 ### <ins>***The Story***</ins>
 
-<br>
-
 I woke up the Wednesday before the last Friday of summer. My mom was shaking me awake to get ready for the 8 hour trip. It was 5 in the morning, on a Wednesday. You know, I got ready, we got in the car with our heap of stuff and set off, not too much of a problem.
 
 Now, after we passed the Holland Tunnel (I live in Brooklyn), which took about an hour alone because of traffic. It was pretty much just an open road. There were farms, fields, stadiums, everywhere. The car ride was pretty chill, I was helping my dad with navigation while the rest of my family was playing games in the back of the car. 
@@ -36,10 +34,12 @@ Unfortunately, all good things have to end and me and my family headed back to B
 
 ### <ins>***In Conclusion***</ins>
 
-<br>
-
 Having someone you can relate with and connect to is incredibly important. Your family, they will be with you forever, friends come and go. Boyfriends/girlfriends come and go. But family, real family, is there for you forever. So, if this story was of any interest to you, give a call to a relative you haven’t seen in a while. Ask them how they are and plan to meet up. You will thank yourself for it.
 
-<img src="/blog/images/MountRoyalOratory.png">
+<img src="/blog/images/Hansel-Wong.jpg">
+
+Photo taken by [Hansel Wong](https://unsplash.com/@yourshansel) on [Unsplash](https://unsplash.com).
 
 <img src="/blog/images/unsplash-sidewalk.jpeg">
+
+Photo taken by [Etienne Delorieux](https://unsplash.com/@etiennedelorieux) on [Unsplash](https://unsplash.com).
