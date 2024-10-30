@@ -66,6 +66,40 @@ Step Over is a function that typically looks like an arrow jumping over a breakp
 
 <br>
 
+The following code may look scary, but all that is happening is that a function is created to evaluate user input, and a user input is taken, giving an output based on the user's input.
+
+When this file is run in debugging mode, the code will stop at the breakpoint labled in the code. Using Step Over will then cause the code to run the line it is stopped at and freeze at the next line of code "choice = input("Enter preference: ")"
+```python
+#<--test.py-->#
+
+#BR# stands for breakpoint.
+
+'''Evaluation function.'''
+def choice_eval(choice)
+    if choice == "apples":
+        print("Tasty.")
+    elif choice == "bananas":
+        print("Not a fan")
+    else:
+        print("Boring")
+
+
+'''Question.'''
+print("Do you like apples or bananas?") #BR#
+
+
+'''Answer field.'''
+choice = input("Enter preference: ")
+
+
+'''Calling evaluation function.'''
+choice_eval(choice)
+
+print("End")
+```
+
+<br>
+
 ### <ins>***Step Into***</ins>
 
 The next type of function you will most likely encounter is <ins>***Step Into***</ins>.
@@ -101,6 +135,8 @@ In this example, using Step Into when the following code is highlighted during d
 ```python
 #<--test.py--># (Main File)
 
+import testmodule
+
 testmodule.testfunction()
 ```
 
@@ -129,6 +165,8 @@ Using Step Out will return to the main python file you were debugging:
 
 ```python
 #<--testmodule.py--># (Module File)
+
+import testmodule
 
 def testfunction():
     #Example function code here.
