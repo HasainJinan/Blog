@@ -38,8 +38,8 @@ Having someone you can relate with and connect to is incredibly important. Your 
 
 <img src="/blog/images/Hansel-Wong.jpg" height = "200px">
 
-Photo taken by [Hansel Wong](https://unsplash.com/@yourshansel) on [Unsplash](https://unsplash.com).
+Photo taken by [Hansel Wong](https://unsplash.com/@yourshansel).
 
 <img src="/blog/images/unsplash-sidewalk.jpg" height = "200px">
 
-Photo taken by [Etienne Delorieux](https://unsplash.com/@etiennedelorieux) on [Unsplash](https://unsplash.com).
+Photo taken by [Etienne Delorieux](https://unsplash.com/@etiennedelorieux).

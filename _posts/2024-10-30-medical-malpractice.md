@@ -56,7 +56,7 @@ All mediguns heal at the base rate of 24HP/sec, except for the Quick Fix, which 
 
 ## <ins>***Stock: Ol' Reliable***</ins>
 
-Stock is the default medigun that you start out with and it is, hands down, the strongest and most dependable of the 4 mediguns. Its Uber gives you and your heal patient 8 seconds of complete invulnerability to damage. 8 seconds where you and your patient cannot die to bullets, rockets, grenades, stickybomb traps, melee attacks, needles, or even backstabs. However, in exchange for this ridiculous power, it also takes the longest to charge *(technically its build rate is normal since it's stock)*. 
+Stock is the default medigun that you start out with and it is, hands down, the strongest and most dependable of the 4 mediguns. Its Uber gives you and your heal patient 8 seconds of complete invulnerability to damage. 8 seconds where you and your patient cannot die to bullets, rockets, grenades, stickybomb traps, melee attacks, needles, or even backstabs. However, in exchange for this ridiculous power, it also takes the longest to charge *(technically its build rate is normal since it's stock, all of the other mediguns just build faster)*. 
 
 <br>
 
@@ -138,7 +138,7 @@ The Ubercharge Recipient tier list does look very similar to Stock's though, for
 
 <br>
 
-One of the Kritzkrieg's sort of "passive drawbacks" is that it encourages a more active playstyle. The Kritzkrieg charges faster, therefore less time sitting towards the back of your enemy composition safely building Uber and a higher chance of dying. When popping Uber, you need to be fairly close to the frontline in order to keep your beam on your heal target so they do not lose crits, all while receiving no defense boosts from your Ubercharge, making you prone to dying. 
+One of the Kritzkrieg's sort of "passive drawbacks" is that it encourages a more active playstyle. The Kritzkrieg charges faster, therefore less time sitting towards the back of your team safely building Uber and a higher chance of dying. When popping Uber, you need to be fairly close to the frontline in order to keep your beam on your heal target so they do not lose crits, all while receiving no defense boosts from your Ubercharge, making you prone to dying. 
 
 <br>
 
