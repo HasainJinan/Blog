@@ -86,7 +86,7 @@ However, even if certain classes are better Uber recipients, you should still be
 
 The general order of bad recipients to good recipients looks something like this (actual placements vary from situation to situation):
 
-<img src="/blog/images/UberRecipientList.png" width = 100%>
+<img src="/blog/images/UberRecipientList.png" style="width: 100%;">
 
 <br>
 
